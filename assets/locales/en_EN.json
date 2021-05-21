@@ -1,0 +1,18 @@
+{
+  "home": {
+    "welcome": "Welcome",
+    "bell_local_helmet": "Bell Local Helmet",
+    "orange_cycling_helmet": "Orange Cycling Helmet",
+    "xiaomi_ninebot": "Xiaomi Ninebot",
+    "black_scooter_helmet": "Black scooter Helmet",
+    "unbranded_helmet": "Unbranded Helmet"
+  },
+  "drawer": {
+    "user": "Hey Luka D.",
+    "category": "Category",
+    "cart": "Your cart",
+    "favorites": "Your Favorites",
+    "orders": "Your Orders",
+    "sign_out": "Sign Out"
+  }
+}

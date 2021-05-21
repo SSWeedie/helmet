@@ -1,0 +1,18 @@
+{
+  "home": {
+    "welcome": "Xin chào",
+    "bell_local_helmet": "Bell Local Helmet",
+    "orange_cycling_helmet": "Mũ xe đạp Helmet màu cam",
+    "xiaomi_ninebot": "Xiaomi Ninebot",
+    "black_scooter_helmet": "Mũ scooter Helmet màu đen",
+    "unbranded_helmet": "Mũ Helmet"
+  },
+  "drawer": {
+    "user": "Hey Luka D.",
+    "category": "Danh mục",
+    "cart": "Giỏ hàng",
+    "favorites": "Yêu thích",
+    "orders": "Đơn hàng",
+    "sign_out": "Đăng xuất"
+  }
+}
